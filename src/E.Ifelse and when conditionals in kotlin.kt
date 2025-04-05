@@ -1,21 +1,21 @@
 fun main() {
     var a = 20;
-    var v = 10;
-    var x = 15;
+    var b = 10;
+    var c = 15;
     //if else
-    if (a > v) {
+    if (a > b) {
         println("$a is greater then v")
     } else {
-        println("$v is greater then v")
+        println("$b is greater then v")
     }
     // if -else ladder
 
-    if (a > v) {
-        println("$a is greater then $v")
-    } else if (x > a) {
-        println("$x is greater then $x")
+    if (a > b) {
+        println("$a is greater then $b")
+    } else if (c > a) {
+        println("$c is greater then $a")
     } else {
-        println("$x is equal to then $x")
+        println("$b is equal to then $c")
     }
 
     var phoneno = readLine()!! // by-defalut the readline takes input in String , to cinvert
