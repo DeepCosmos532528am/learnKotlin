@@ -1,3 +1,5 @@
+package KotlinBasics
+
 fun main(){
 // * Defining the variables , var and val
     var a = "Sachin" // mutable

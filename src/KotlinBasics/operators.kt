@@ -1,3 +1,5 @@
+package KotlinBasics
+
 fun main(){
     //🔹 5 Basic Operators in Kotlin 🚀
     //Kotlin supports the same fundamental operators as Java, categorized into arithmetic, relational, logical, assignment, and bitwise operators.

@@ -1,5 +1,7 @@
+package KotlinBasics
+
 /**
- * The `main` function serves as the entry point of the program. It demonstrates the use of various Kotlin
+ * The `KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.main` function serves as the entry point of the program. It demonstrates the use of various Kotlin
  * language features, such as user input handling, loops, conditional statements, and the `when` expression.
  *
  * Key functionalities include:

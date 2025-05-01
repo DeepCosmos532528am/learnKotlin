@@ -1,3 +1,5 @@
+package KotlinBasics
+
 fun main() {
     var a = 20;
     var b = 10;
@@ -63,7 +65,7 @@ fun main() {
 Hello, Sachin!
 
  🔴 Output (if input is null):
-Exception in thread "main" kotlin.KotlinNullPointerException
+Exception in thread "KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.main" kotlin.KotlinNullPointerException
 */
 //So bhai, readLine() is safe but needs null check, and readLine()!! is risky but direct. Use according to the situation.
 
@@ -95,7 +97,7 @@ If expression works same as ternary operator does in java*/
 
     Kotlin syntax is cleaner and more expressive.
 
-    Java me ternary ka main kaam hota hai — value ko variable me store karne ke liye ek short conditional likhna.
+    Java me ternary ka KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.main kaam hota hai — value ko variable me store karne ke liye ek short conditional likhna.
     Aur Kotlin me wahi kaam if expression se ho jata hai 😎
     */
     print("Enter your marks")

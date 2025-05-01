@@ -1,3 +1,5 @@
+package KotlinBasics
+
 fun main(){
     /* 🔹 Kotlin Primitive Data Types
     Kotlin has eight primitive types, just like Java, with the same memory size and range because it runs on the JVM.*/

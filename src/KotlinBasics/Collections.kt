@@ -1,0 +1,4 @@
+package KotlinBasics
+
+class Collections {
+}
