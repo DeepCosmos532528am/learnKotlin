@@ -6,7 +6,12 @@ fun main() {
     person.initializeName()  // Initializing name
     println(person.name)  // Output: John Doe
 
+    // nullable type in kotlin, -> we simply have to put '?' next to the type of the variable, to declare it nullable
 
+    var name: String? = null
+    println(name) // will not through null-pointer exception, because it is handled by '?' null type declaration
+    name = "Sachin"
+    println(name)
 }
 
 class Person {
