@@ -1,4 +1,4 @@
-package KotlinBasics
+package ConditionalsInKotlin
 
 fun main() {
     var a = 20;
@@ -97,7 +97,7 @@ If expression works same as ternary operator does in java*/
 
     Kotlin syntax is cleaner and more expressive.
 
-    Java me ternary ka KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.KotlinBasics.main kaam hota hai — value ko variable me store karne ke liye ek short conditional likhna.
+    Java me ternary ka kaam hota hai — value ko variable me store karne ke liye ek short conditional likhna.
     Aur Kotlin me wahi kaam if expression se ho jata hai 😎
     */
     print("Enter your marks")

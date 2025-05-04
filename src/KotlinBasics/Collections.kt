@@ -17,7 +17,7 @@ fun main()
     println(grocery)
     println(grocery)
     println(grocery.get(3))
-    grocery.remove(0)
+    grocery.remove(0    )
     println(grocery)
 
 
